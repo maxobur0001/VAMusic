@@ -19,3 +19,13 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Link
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Linkin_Park_-_Papercut_(SkySound.cc).mp3
 #EXTINF:0,Linkin Park - Somewhere I Belong
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Linkin_Park_Meteora_2003_-_Somewhere_I_Belong_(SkySound.cc).mp3
+#EXTINF:0,AATS - Pullin' Out Da Gas
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/AATS — Pullin' Out Da Gas (www.lightaudio.ru).mp3
+#EXTINF:0,AMN - FORWARD ANXIOUS
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/AMN_-_FORWARD_ANXIOUS_74442965.mp3
+#EXTINF:0,destroyalone - Unturned
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/destroyalone - Unturned.mp3
+#EXTINF:0,D-LXW - I'm Blue (Phonk Remix)
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/D-LXW - I'm Blue (Phonk Remix).mp3
+#EXTINF:0,DVRST - Komarovo
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/dvrst-igor-sklyar-atomic-heart-komarovo-dvrst-dnb-remix.mp3

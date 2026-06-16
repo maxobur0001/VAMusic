@@ -3,3 +3,9 @@
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Molchat_Doma_www.lightaudio.ru.mp3
 #EXTINF:0,Дайте танк (!) - Люди
 https://rus.hitmoz.org/get/music/20200215/Dajjte_tank_-_Lyudi_68398361.mp3
+#EXTINF:0,Дайте танк (!) - Друг
+https://rus.hitmoz.org/get/music/20170830/Dajjte_Tank_-_Drug_47845413.mp3
+#EXTINF:0,Дайте танк (!) - Конец
+https://rus.hitmoz.org/get/music/20250308/Dajjte_tank_-_Konec_79075480.mp3
+#EXTINF:0,KiD CuDi - Pursuit Of Happiness (Nightmare)
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/KiD CuDi - Pursuit Of Happiness (Nightmare) compr.mp3

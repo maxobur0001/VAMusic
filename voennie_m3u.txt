@@ -9,3 +9,5 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/TNO_
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Kasper_SKWLKR_Lastfragment_-_SB_78242370.mp3
 #EXTINF:0,Марш Радецкого
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Iogann_SHtraus_-_Marsh_Radeckogo_soch_228_63066194.mp3
+#EXTINF:0,Марш защитников Москвы
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Hearts_of_Iron_4No_step_back_-_Marsh_zashhitnikov_Moskvy_73396982.mp3
