@@ -19,3 +19,9 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/TwoF
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/VenusAndMars.mp3
 #EXTINF:0,Я верю
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/09. я верю.mp3
+#EXTINF:0,Buckshot Roulette OST
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Buckshot Roulette OST.mp3
+#EXTINF:0,Buckshot Roulette OST - Blank Shell
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Buckshot Roulette OST - Blank Shell.mp3
+#EXTINF:0,Отстойное вино
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/отстойное вино.mp3
