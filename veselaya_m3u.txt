@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/04. 
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Kanye_West_-_Flashing_Lights_48268684.mp3
 #EXTINF:0,C.live - Слив (feat. Sector Preeza)
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/15. С.live - Слив (Feat. Sector Preeza).mp3
+#EXTINF:0,Hilltop Hoods - The Nosebleed Section
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Hilltop Hoods - The Nosebleed Section.mp3 
