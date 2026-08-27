@@ -29,3 +29,10 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/dest
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/D-LXW - I'm Blue (Phonk Remix).mp3
 #EXTINF:0,DVRST - Komarovo
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/dvrst-igor-sklyar-atomic-heart-komarovo-dvrst-dnb-remix.mp3
+#EXTINF:0,Linkin Park - Figure
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Linkin Park - Figure.09.mp3
+#EXTINF:0,Oliver Tree - Cash Machine
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Oliver Tree - Cash Machine.mp3
+#EXTINF:0,Oliver Tree - Hurt
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Oliver Tree - Hurt.mp3
+

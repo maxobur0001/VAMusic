@@ -17,3 +17,9 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Kany
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/15. С.live - Слив (Feat. Sector Preeza).mp3
 #EXTINF:0,Hilltop Hoods - The Nosebleed Section
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Hilltop Hoods - The Nosebleed Section.mp3 
+#EXTINF:0,All Flowey Sould Themes
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/All_Flowey_Soul_Themes.mp3  
+#EXTINF:0,Oliver Tree - Life Goes On
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Oliver Tree - Life Goes On.mp3
+#EXTINF:0,Oliver Tree (feat. Robin Schulz) - Miss You
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Oliver Tree feat Robin Schulz - Miss You.mp3

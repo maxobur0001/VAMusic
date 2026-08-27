@@ -25,3 +25,11 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Buck
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Buckshot Roulette OST - Blank Shell.mp3
 #EXTINF:0,Отстойное вино
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/отстойное вино.mp3
+#EXTINF:0,Карлик Чемпион - Пархатное интро
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/01. пархатое интро (муз. Карлик Чемпион).mp3 
+#EXTINF:0,Bransboyd - Нуар (feat. Double V)
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/05. нуар (фит. Double V)(муз. Bransboyd).mp3
+#EXTINF:0,Nuttkase - Пусть говорят (feat. Шахматист)
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/11. пусть говорят (фит. Шахматист)(муз. Nuttkase).mp3 
+#EXTINF:0,Nuttkase - Хип-Хоп 2010
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/19. хип-хоп 2010 18.10.12 (муз. Nuttkase).mp3 

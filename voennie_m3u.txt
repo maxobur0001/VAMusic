@@ -11,3 +11,6 @@ https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Kasp
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Iogann_SHtraus_-_Marsh_Radeckogo_soch_228_63066194.mp3
 #EXTINF:0,Марш защитников Москвы
 https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/Hearts_of_Iron_4No_step_back_-_Marsh_zashhitnikov_Moskvy_73396982.mp3
+#EXTINF:0,чооо етооавоаавоы
+https://raw.githubusercontent.com/maxobur0001/VAMusic/refs/heads/main/music/track_459dc365.mp3
+
